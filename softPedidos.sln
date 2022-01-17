@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "softPedidos", "softPedidos\softPedidos.csproj", "{F6AB2D79-B9CE-4A8C-80F0-93A9CD32E407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AB2D79-B9CE-4A8C-80F0-93A9CD32E407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AB2D79-B9CE-4A8C-80F0-93A9CD32E407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AB2D79-B9CE-4A8C-80F0-93A9CD32E407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AB2D79-B9CE-4A8C-80F0-93A9CD32E407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5E9594-251E-465E-A0D2-06571EB0FD9B}
+	EndGlobalSection
+EndGlobal
